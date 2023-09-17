@@ -40,6 +40,6 @@ To fix a bug or enhance an existing module, follow these steps:
 
   ## Team
 
-| <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/>   | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> |
-| :------: | :------: | | :------: | :------: |
+| <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> |
+| :------: | :------:  | :------: | :------: |
 | Python Hat        |   True   | Python Hat        |   True   |
