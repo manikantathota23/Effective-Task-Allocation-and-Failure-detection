@@ -1,4 +1,4 @@
-![](https://imgur.com/N8kj1EC)
+<blockquote class="imgur-embed-pub" lang="en" data-id="N8kj1EC" data-context="false" ><a href="//imgur.com/N8kj1EC"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 # Effective-Task-Allocation-and-Failure-detection
 ![](https://imgur.com/N8kj1EC)
 
