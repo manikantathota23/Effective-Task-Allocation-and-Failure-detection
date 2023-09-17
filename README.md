@@ -40,7 +40,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
   ## Team
 
-[![Manikanta Thota]([https://avatars1.githubusercontent.com/u/12688534?v=3&s=144](https://avatars.githubusercontent.com/u/83583769?s=400&u=539eed3f9b279cb3a433064aa428406a2cb5c3cb&v=4))]([https://github.com/iharsh234](https://github.com/manikantathota23))  | [![Surya Teja](https://avatars.githubusercontent.com/u/83645817?v=4)](https://github.com/suryateja084)
+[![Manikanta Thota]([https://avatars.githubusercontent.com/u/83583769?v=4](https://github.com/manikantathota23))  | [![Surya Teja](https://avatars.githubusercontent.com/u/83645817?v=4)](https://github.com/suryateja084)
 ---|---
 [Manikanta ](https://github.com/manikantathota23) |[Surya Teja](https://github.com/suryateja084)
 
