@@ -1,6 +1,7 @@
 # Effective-Task-Allocation-and-Failure-detection
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZHOlHyt5jVsL6IZ-ydu7UUSdUmY4srCnp_9EwqmmQgI93hvVfw_PuB4eGClDJmM5RjE&usqp=CAU)
-
+<p align="center">
+  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZHOlHyt5jVsL6IZ-ydu7UUSdUmY4srCnp_9EwqmmQgI93hvVfw_PuB4eGClDJmM5RjE&usqp=CAU)" alt="custom image"/>
+</p>
 A short description about the project and/or client.
 
 ## Getting Started
