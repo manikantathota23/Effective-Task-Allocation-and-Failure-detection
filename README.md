@@ -2,33 +2,30 @@
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZHOlHyt5jVsL6IZ-ydu7UUSdUmY4srCnp_9EwqmmQgI93hvVfw_PuB4eGClDJmM5RjE&usqp=CAU" alt="custom image"/>
 </p>
-A short description about the project and/or client.
+
+This project aims to tackle the challenges of task allocation in crowdsourcing platforms, ensuring efficient assignment of tasks to workers based on their skills and task difficulty. Efficient task assignment is paramount for productivity and growth. The problem is significant due to the increasing popularity of crowdsourcing platforms. We will be delivering a fostering mentorship mapping. Our approach will match tasks with the right individuals, ensuring optimal workforce utilization and task completion. 
+
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The datasets Contains the Details about the Employees (Skills,Role,Experiance,Tasks Completions) and Tasks (Task Name,Skills Required,Urgency level) by using this we are enhancing platform efficiency, client satisfaction, and freelancer success.
 
-## Deployment
-
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
 
 ## Features
 
-- Written in uncomplicated Go (Golang)
-- No installation necessary - just use the [binary](https://github.com/karan/joe#installation).
-- Stupidly [easy to use](https://github.com/karan/joe#usage)
-- Supports all Github-supported [`.gitignore` files](https://github.com/karan/joe#list-all-available-files)
-- Works on Mac, Linux and (maybe) Windows
-- Supports other version control systems (`.hgignore`)
+- Categorize the Employees as Experts and In Experts
+- Map the In Experts to the Experts for mentorship
+- Allocatate the Tasks
+- Failure Detection
 
 ### Branches
 
 * Master:
-* Feature:
-* Bugfix:
-* etc...
+* documentation:
+* Code Implementation:
+* Dataset addons:
 
-To fix a bug or enhance an existing module, follow these steps:
+## To fix a bug or enhance an existing module, follow these steps:
 
 - Fork the repo
 - Create a new branch (`git checkout -b improve-feature`)
@@ -38,8 +35,8 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request
 
-  ## Team
+## Team
 
-| <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> |
+| <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/84663285?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/84571730?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> |
 | :------: | :------:  | :------: | :------: |
-| <a href = "https://github.com/manikantathota23" target = "_blank">Manikanta thota </a>         |   <a href = "https://github.com/manikantathota23" target = "_blank">Manikanta thota </a>   | <a href = "https://github.com/manikantathota23" target = "_blank">Manikanta thota </a>        |   <a href = "https://github.com/manikantathota23" target = "_blank">Manikanta thota </a>   |
+| <a href = "https://github.com/manikantathota23" target = "_blank">Manikanta thota </a>         |   <a href = "https://github.com/sindhusahithi26" target = "_blank">Sindhu Sahithi </a>   | <a href = "https://github.com/AnushreeV9" target = "_blank">Anushree </a>        |   <a href = "https://github.com/manikantathota23" target = "_blank">Manikanta thota </a>   |
