@@ -1,3 +1,4 @@
+![](https://imgur.com/N8kj1EC)
 # Effective-Task-Allocation-and-Failure-detection
 ![](https://imgur.com/N8kj1EC)
 
