@@ -37,6 +37,6 @@ The datasets Contains the Details about the Employees (Skills,Role,Experiance,Ta
 
 ## Team
 
-| <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/84663285?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/84571730?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> |
+| <p align="center"> <img src="https://avatars.githubusercontent.com/u/83583769?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/84663285?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/84571730?v=4" alt="custom image"/> | <p align="center"> <img src="https://avatars.githubusercontent.com/u/83645817?v=4" alt="custom image"/> |
 | :------: | :------:  | :------: | :------: |
-| <a href = "https://github.com/manikantathota23" target = "_blank">Manikanta thota </a>         |   <a href = "https://github.com/sindhusahithi26" target = "_blank">Sindhu Sahithi </a>   | <a href = "https://github.com/AnushreeV9" target = "_blank">Anushree </a>        |   <a href = "https://github.com/manikantathota23" target = "_blank">Manikanta thota </a>   |
+| <a href = "https://github.com/manikantathota23" target = "_blank">Manikanta thota </a>         |   <a href = "https://github.com/sindhusahithi26" target = "_blank">Sindhu Sahithi </a>   | <a href = "https://github.com/AnushreeV9" target = "_blank">Anushree </a>        |   <a href = "https://github.com/suryateja084" target = "_blank">Surya Teja </a>   |
